@@ -1,6 +1,11 @@
-body{background-image: url(../img/IMG_0378.jpg);}
+body{background-image: url(../img/IMG_0378.jpg);
+
+   background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
 h1 {text-align: center;
-  border: 3px solid blue;
+  
   color: blue; }
 
 h2 {color: blue; }
